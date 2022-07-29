@@ -1,0 +1,2 @@
+# sql_hackerrank
+ALL QUESTIONS SOLVED ON HACKERRANK
